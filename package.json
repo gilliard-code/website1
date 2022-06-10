@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/gilliard-code/website-1",
-  "name": "website-01",
+  "homepage": "https://github.com/gilliard-code/reactjs-website-1",
+  "name": "reactjs-website-1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
