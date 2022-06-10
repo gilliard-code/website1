@@ -1,7 +1,7 @@
 # 😀 ReactJS Website | UI Design
 
 > `::` Code made with 💓 by **Gilliard** `::`
-Eu desenvolvi esta interface, com o intuito de prátcar a codificação com base em Design UI e tornar o projeto realidade. `::`
+Eu desenvolvi esta interface, com o intuito de práticar a codificação com base em Design UI e tornar o projeto realidade. `::`
 
 ## Live Preview
 
@@ -9,7 +9,7 @@ https://gilliard-code.github.io/website1
 
 ## Direitos Autorais
 
-Esta interface foi retirada do Instagram, e a imagem utiliza na interface, foi retirada do Dribbble, segue os links dos artistas.
+Esta interface foi retirada do Instagram e a imagem utilizada na interface, foi retirada do Dribbble, segue os links dos artistas.
 
 https://www.instagram.com/p/Cea_FFBDeVF/?igshid=MDJmNzVkMjY%3D
 <br>
