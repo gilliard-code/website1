@@ -1,11 +1,15 @@
-# 😀 ReactJS Website | UI Design
+# 😀 ReactJS Website 1 | UI Design
 
 > `::` Code made with 💓 by **Gilliard** `::`
 Eu desenvolvi esta interface, com o intuito de práticar a codificação com base em Design UI e tornar o projeto realidade. `::`
 
+<div>
+    <img src="https://logospng.org/download/react/logo-react-1024.png" style="width: 100px" />
+</div>
+
 ## Live Preview
 
-https://gilliard-code.github.io/website1
+https://reactjs-website-1.herokuapp.com/
 
 ## Direitos Autorais
 
