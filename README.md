@@ -11,6 +11,8 @@ Eu desenvolvi esta interface, com o intuito de práticar a codificação com bas
 
 https://reactjs-website-1.herokuapp.com/
 
+<img src="https://github.com/gilliard-code/website1/blob/main/printscreen.PNG" style="width: 450px" />
+
 ## Direitos Autorais
 
 Esta interface foi retirada do Instagram e a imagem utilizada na interface, foi retirada do Dribbble, segue os links dos artistas.
